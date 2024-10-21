@@ -41,7 +41,7 @@ My chosen API for this project is **NASA**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/a/c251oXw.gif' title='Video Demo' width='' alt='Video Demo' />
+http://i.imgur.com/a/c251oXw.gif
 
 GIF created with **Screen2Gif**
 
