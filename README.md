@@ -1,28 +1,14 @@
-<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
-
-# AND101 Project 5 - Choose Your Own API
-
-Submitted by: **Jacob**
-
-Time spent: **2** hours spent in total
-
 ## Summary
 
 **NASA Mars Rover Images API** is an android app that **retrives images from NASA's rovers on mars.*
 
-If I had to describe this project in three (3) emojis, they would be: **😀😃😄**
-
 ## Application Features
-
-<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
-
-The following REQUIRED features are completed:
 
 - [x] Make an API call to an API of your choice using AsyncHTTPClient
 - [x] Display at least three (3) pieces of data for each API entry retrieved
 - [x] A working Button requests a new API entry and updates the data displayed
 
-The following STRETCH features are implemented:
+The following STRETCH features to be implemented:
 
 - [ ] Add a query to the API request
   - The query I added is **FILL IN HERE**
@@ -30,8 +16,7 @@ The following STRETCH features are implemented:
 
 The following EXTRA features are implemented:
 
-- [x] List anything else that you added to improve the app!
-- [x] I added hundrends of images you can scroll through, would be the entire gallery they have, but reaches API limit request
+- [x] I added hundrends of images you can scroll through, would be the entire gallery they have, but reaches API limit request (need to change via UI)
 
 ## API Choice
 
@@ -45,18 +30,13 @@ http://i.imgur.com/a/c251oXw.gif
 
 GIF created with **Screen2Gif**
 
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
-
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+More to come soon
 
 ## License
 
-Copyright **2024** **Jacob**
+Copyright **2026** **Jacob**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
