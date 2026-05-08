@@ -11,7 +11,6 @@
 The following STRETCH features to be implemented:
 
 - [ ] Add a query to the API request
-  - The query I added is **FILL IN HERE**
 - [ ] Build a UI to allow users to add that query
 
 The following EXTRA features are implemented:
